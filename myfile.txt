@@ -1,2 +1,5 @@
-This is conflict
+
+This is conflict 
 Hello world!
+
+
